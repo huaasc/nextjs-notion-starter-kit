@@ -11,15 +11,15 @@ export default siteConfig({
   // basic site info (required)
   name: 'Ly指南',
   domain: 'https://www.notion.so/Lyhua-bb87910379bc40cda81c6737c9c57943',
-  author: 'huallll',
+  author: 'hua',
 
   // open graph metadata (optional)
-  description: '',
+  // description: '',
 
   // social usernames (optional)
-  twitter: '',
-  github: 'huaasc',
-  linkedin: '',
+  // twitter: '',
+  // github: 'huaasc',
+  // linkedin: '',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults

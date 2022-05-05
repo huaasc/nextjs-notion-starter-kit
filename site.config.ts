@@ -11,7 +11,7 @@ export default siteConfig({
   // basic site info (required)
   name: 'Ly指南',
   domain: 'https://www.notion.so/Lyhua-bb87910379bc40cda81c6737c9c57943',
-  author: 'hua',
+  author: 'huallll',
 
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
